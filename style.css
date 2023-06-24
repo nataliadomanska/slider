@@ -46,15 +46,15 @@ h3 {
 
 .slider__btn {
   position: absolute;
-  top: 30%;
+  top: 25%;
   z-index: 10;
 
   border: none;
   background: rgba(255, 255, 255, 0.7);
   color: #333;
   border-radius: 50%;
-  height: 5.5rem;
-  width: 5.5rem;
+  height: 4rem;
+  width: 4rem;
   font-size: 3.25rem;
   cursor: pointer;
 }
