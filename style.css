@@ -1,3 +1,7 @@
+:root {
+  color-scheme: light only;
+}
+
 body {
   background-color: rgb(245, 245, 245);
   font-family: "Poppins", sans-serif;
