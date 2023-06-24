@@ -44,6 +44,10 @@ h3 {
   text-align: center;
 }
 
+.button-container {
+  display: flex;
+}
+
 .slider__btn {
   position: absolute;
   top: 25%;
@@ -57,6 +61,8 @@ h3 {
   width: 4rem;
   font-size: 3.25rem;
   cursor: pointer;
+  align-items: center;
+  justify-content: center;
 }
 
 .slider__btn--left {
